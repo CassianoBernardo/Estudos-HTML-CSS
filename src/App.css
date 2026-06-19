@@ -1,0 +1,42 @@
+p {
+  font-size: 20px;
+  color: blue;
+  background-color: orange;
+  width: 200px;
+  margin: 30px auto;
+}
+
+.maior {
+  font-size: 30px;
+}
+
+button {
+  font-size: 20px;
+  color: white;
+  background-color: blue;
+  width: 100px;
+  margin: 0 auto;
+  border-radius: 5px;
+  padding: 5+px 0;
+
+}
+
+nav {
+  background-color: brown;
+  color: white;
+  padding: 50px;
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+      
+  }
+}
+
+
+
+
